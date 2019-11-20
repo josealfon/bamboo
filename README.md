@@ -7,9 +7,9 @@ You can run this OFFICIAL BAMBOOLIB repo in a Jupyter Notebook on Binder by clic
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/8080labs/bamboolib_binder_template/master?filepath=bamboolib_demo_titanic.ipynb)
 
-You can run my own BAMBOO in the Binder I have created
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josealfon/bamboo/master?filepath=bamboolib_demo_titanic.ipynb)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josealfo/bambo/master?filepath=bamboolib_demo_titanic.ipynb)
 
 ### How to use bamboolib on any other Open Data?
 
